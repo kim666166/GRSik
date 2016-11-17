@@ -93,7 +93,7 @@ var l_musicPlaylist = [
 	{youtube: "lbSOLBMUvIE", name: "Michael Bublé - Home"},
 	{youtube: "oBKpJiVEcnU", name: "박효신 - 숨"},
 	{youtube: "ulr0muQKjk0", name: "태연 - 11:11"},
-	{youtube: "nmcdLOjGVzw", name: "MIKA - Popular Song ft. Ariana Grande "},
+	{youtube: "OHW2EC9ZqlM", name: "MIKA - Popular Song ft. Ariana Grande "},
 	{youtube: "OxPv8mSTv9U", name: "Maroon 5 - Don't Wanna Know (ft. Kendrick Lamar)"},
 	{youtube: "OR0LpjqjOwM", name: "Maroon 5 - Just A Feeling"},
 	{youtube: "0zGcUoRlhmw", name: "The Chainsmokers - Closer ft. Halsey"},
@@ -111,7 +111,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"----------------준비중-----------------"
+""
 ];
 
 /*Random message order?*/
