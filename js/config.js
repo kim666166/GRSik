@@ -91,15 +91,12 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "sZTpLvsYYHw", name: "The Killers - All These Things That I've Done"},
 	{youtube: "lbSOLBMUvIE", name: "Michael Bublé - Home"},
-	{youtube: "dsWDUvuF0Xc", name: "Florence + The Machine - Wish That You Were Here"},
 	{youtube: "oBKpJiVEcnU", name: "박효신 - 숨"},
 	{youtube: "ulr0muQKjk0", name: "태연 - 11:11"},
-	{youtube: "77PzXCKDyVQ", name: "Carly Rae Jepsen - I Really Like You"},
-	{youtube: "77PzXCKDyVQ", name: "Maroon 5 - Don't Wanna Know (ft. Kendrick Lamar)"},
-	{youtube: "OYJETgHbX4g", name: "TWICE - TT"},
-	{youtube: "OYJETgHbX4g", name: "RDvKBLLbwbqiY - Origin Of Love"},
-	{youtube: "OYJETgHbX4g", name: "Maroon 5 - Just A Feeling"},
-	{youtube: "hcwgnNhCc4A", name: "윤수일 - 아파트"},
+	{youtube: "nmcdLOjGVzw", name: "MIKA - Popular Song ft. Ariana Grande "},
+	{youtube: "OxPv8mSTv9U", name: "Maroon 5 - Don't Wanna Know (ft. Kendrick Lamar)"},
+	{youtube: "OR0LpjqjOwM", name: "Maroon 5 - Just A Feeling"},
+	{youtube: "0zGcUoRlhmw", name: "The Chainsmokers - Closer ft. Halsey"},
 ];
 
 /*Random music order?*/
