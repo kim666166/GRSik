@@ -89,14 +89,17 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "sZTpLvsYYHw", name: "The Killers - All These Things That I've Done"},
-	{youtube: "lbSOLBMUvIE", name: "Michael Bublé - Home"},
-	{youtube: "oBKpJiVEcnU", name: "박효신 - 숨"},
-	{youtube: "ulr0muQKjk0", name: "태연 - 11:11"},
-	{youtube: "OHW2EC9ZqlM", name: "MIKA - Popular Song ft. Ariana Grande "},
-	{youtube: "OxPv8mSTv9U", name: "Maroon 5 - Don't Wanna Know (ft. Kendrick Lamar)"},
-	{youtube: "OR0LpjqjOwM", name: "Maroon 5 - Just A Feeling"},
-	{youtube: "0zGcUoRlhmw", name: "The Chainsmokers - Closer ft. Halsey"},
+	{youtube: "8HURZgwvK28", name: "Don't Be A Fool - Shawn Mendes"},
+	{youtube: "FrIWlLizMJg", name: "Treat You Better - Shawn Mendes"},
+	{youtube: "h82LDhLreRM", name: "Thinking Out Loud - Ed Sheeran"},
+	{youtube: "SlbfAYvA_gI", name: "Photograph - Ed Sheeran"},
+	{youtube: "FrIWlLizMJg", name: "One - Ed Sheeran"},
+	{youtube: "hLQl3WQQoQ0", name: "Someone Like You - Adele"},
+	{youtube: "2B50RUXbs-8", name: "Love The Way You Lie (Part II) (ft. Eminem) - Rihanna"},
+	{youtube: "0wGVG7sZpPA", name: "Hello, You Beautiful Thing - Jason Mraz"},
+	{youtube: "2QjqCJOPu-M", name: "Different Colors - WALK THE MOON"},
+	{youtube: "LqI78S14Wgg", name: "Demons - Imagine Dragons"},
+	{youtube: "jMKx8jUst0U", name: "Summertime of our lives - Cody Simpson"},
 ];
 
 /*Random music order?*/
@@ -111,7 +114,15 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-""
+"이 서버는 Jae Won Kim 에 의해 만들어졌습니다.",
+"서버가 많이 빈약하더라도 어드민의 유저를 생각하는 마음은 최상입니다!",
+"유저들을 생각하고, 의견을 잘 수렴하는 개발자가 되겠습니다! -Jae Won Kim-",
+"로딩이 많이 길더라도 절대! 나가시면 안됩니다ㅎㅎ 최상의 컨텐츠가 여러분을 기다리고 있거든요.",
+"서버는 현재 20만원 상당의 적자를 내고 있습니다.. !후원을 통해 후원해주세요!",
+"motd 꼭 확인해주세요!!",
+"서버 업데이트는 매주 목요일마다 되지만, 제가 마음대로 할 수도 있습니다!",
+"이서버는 제가 하고싶어서 만들게 됬습니다.",
+"개발자가 닼알 2달 했다는건 함정ㄷㄷ...",
 ];
 
 /*Random message order?*/
